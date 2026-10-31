@@ -1,1 +1,2 @@
-# koneko
+# 子猫　（koneko）
+子猫 is an app that inputs an mp3 file and uses a local AI model (FasterWhisper) to transcribe the mp3 file and create timestamps of each subscription. This is then run through an API with a custom prompt to extract the most important mp3 files.
